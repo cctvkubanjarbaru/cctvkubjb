@@ -1805,6 +1805,14 @@ body{
 	float: none;
 	padding: 0 35px;
 }
+.clients-slider img {
+    max-width: 100%;
+    height: auto;
+    -webkit-user-drag: none;
+    -webkit-transform: translate3d(0, 0, 0);
+}
+
+
 /*========================
 	End Clients CSS
 ==========================*/
